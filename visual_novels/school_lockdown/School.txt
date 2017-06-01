@@ -1,0 +1,54 @@
+Biology I|85|1
+Biology II|85|2
+Biology III|85|3
+Biology IV|85|4
+Chemistry I|85|1
+Chemistry II|85|2
+Chemistry III|85|3
+Chemistry IV|85|4
+Calculus I|85|1
+Calculus II|85|2
+Calculus III|85|3
+Calculus IV|85|4
+Physics I|85|1
+Physics II|85|2
+Physics III|85|3
+Physics IV|85|4
+Computer Programming I|85|1
+Computer Programming II|85|2
+Computer Programming III|85|3
+Computer Programming IV|85|4
+English I|85|1
+English II|85|2
+English III|85|3
+English IV|85|4
+Choir|85|4
+Orchestra|85|4
+Gym|100|1 
+Cafeteria|3|300
+Theater|800|5
+Astronomy|125|2
+Mechanical Engineering lab|40|3
+Computer lab|110|3
+Art room|75|2
+Library I|100|1 
+Library II|100|3 
+Female Bathroom floor I|85|1
+Female Bathroom floor II|85|2
+Female Bathroom floor III|85|3
+Female Bathroom floor IV|85|4
+Female Bathroom floor IV|85|5
+Male Bathroom floor I|85|1
+Male Bathroom floor II|85|2
+Male Bathroom floor III|85|3
+Male Bathroom floor IV|85|4
+Male Bathroom floor IV|85|5
+Faculty break room|45|5
+Principal's Office|30|5
+Faculty room|10|5
+Nurse's Office|50|5
+Indoor Pool|500|1
+Track Field|1000|1
+Wind Ensemble|60|4
+Female Locker Room|50|1
+Male Locker Room|50|1
